@@ -25,10 +25,10 @@ def main(args):
     args = parser.parse_args(args)
 
     msg = args.text
-    if args.lower:
-        msg = msg.lower()
     if args.upper:
         msg = msg.upper()
+    if args.lower:
+        msg = msg.lower()
     if args.title:
         msg = msg.title()
 
