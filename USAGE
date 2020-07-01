@@ -10,4 +10,3 @@ optional arguments:
   -u, --upper  convert text to uppercase
   -l, --lower  convert text to lowercase
   -t, --title  convert text to titlecase
-  

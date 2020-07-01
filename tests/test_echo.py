@@ -7,7 +7,7 @@ Students are expected to edit this module, to add more tests to run
 against the 'echo.py' program.
 """
 
-__author__ = "Reggy Tjitradi with guidance from Stew and Daniel's Study Hall"
+__author__ = "Reggy Tjitradi with guidance from Stew and Daniel's Study Hall plus Ramon Hamilton and Howard Post too."
 
 import sys
 import importlib
